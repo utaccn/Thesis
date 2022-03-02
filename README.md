@@ -1,6 +1,6 @@
 # Smooth solution space exploration by introducing local similarity search in a MAP-Elites algorithm
 
-## Abstract
+### Abstract
 
 MAP-Elites algorithms have been developed and applied with the aim of better illuminating the search space of an evolutionary
 algorithm by defining an archive of many niches within a behaviour space, where only individuals within a niche compete. Resulting in an
@@ -14,3 +14,8 @@ The results demonstrate that our model, in the proper conditions, keeps the arch
 algorithm, but is able to additionally select the archive prototypes, generating a smoother archive.
 
 ---
+
+Collection of the scripts used for my Master's Thesis project. 
+You can find the original paper in this repository.
+
+The code is based on the original MAP-Elites Python implementation [py_mapelites](https://github.com/resibots/pymap_elites)
