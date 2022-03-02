@@ -18,4 +18,16 @@ algorithm, but is able to additionally select the archive prototypes, generating
 Collection of the scripts used for my Master's Thesis project. 
 You can find the original paper in this repository.
 
-The code is based on the original MAP-Elites Python implementation [py_mapelites](https://github.com/resibots/pymap_elites)
+The code is based on the original MAP-Elites Python implementation [pymap_elites](https://github.com/resibots/pymap_elites) developed by Mouret
+
+---
+## Dependencies
+- python3
+- pymap_elites
+- numpy
+- sklearn (scikit-learn)
+- matplotlib 
+- pycairo
+- scipy
+- openCV2
+- PIL
