@@ -20,7 +20,6 @@ You can find the original paper in this repository.
 
 The code is based on the original MAP-Elites Python implementation [pymap_elites](https://github.com/resibots/pymap_elites) developed by Mouret
 
----
 ## Dependencies
 - python3
 - pymap_elites
